@@ -1,4 +1,1 @@
-This file is managed by OpenTofu via a pull request.
-
-If this content differs from the base branch, the configuration will create or
-reuse a pull request to bring the file back to this desired state.
+Fat fingers
