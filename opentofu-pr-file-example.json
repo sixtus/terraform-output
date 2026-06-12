@@ -1,1 +1,4 @@
-
+{
+  "managed_by": "opentofu",
+  "repository": "sixtus/terraform-output"
+}
